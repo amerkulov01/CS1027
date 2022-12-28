@@ -1,0 +1,22 @@
+first line: #rows, #columns, optional delay, optional chamber size. Other lines: K-lighted, E-sealed, K-dark, D-dim, T-entrance, 1-treasure 1, 2-treasure 2, 3-treasure 3
+20 20 
+S S S S S S S S S S S S S S S S S S S S
+ S S E L D S S D D L S S S S D K S S S S
+S S L S S S S S K S S S S D L S S L L S 
+ S D S S L D S S D S S S K S S S S L S S
+S S D S S D L S S L S S D S S S S L S S
+ S S L S L S L D L S S L L S S S D S S S
+S S S L L S S S S L S S L D S S S K S S
+ S S D S S S S S S L S L S L S S S D S S
+S S L S S D L S S S L L D S L D D L S S
+ S L S S L S L S S S S S L S S S S S S S
+S S D S L S 2 L L D S S S L L L L L L S
+ S S L D S S S S S L D K D S S S S S L S
+S S S D S S S S D L S S S S L L S S L S
+ S S L L L S S L S L D 1 L L S L S L S S
+S S L S S L D S S L S S S S D L S S S S
+ S S L S S D D S S L S S S S D S S S S S
+S S L S S S L L S S L L L S D L L S S S
+ S L S S S S L S L S S S L L S S L S S S
+S S D L D L D L L L S S 3 D L L D L S S
+ S S S S S S S S S S S S S S S S S S S S

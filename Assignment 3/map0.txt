@@ -1,0 +1,7 @@
+first line: #rows, #columns, optional delay, optional chamber size. Other lines: K-lighted, E-sealed, K-dark, D-dim, T-entrance, 1-treasure 1, 2-treasure 2, 3-treasure 3
+5 5 
+S S E S S
+ K D L D S
+S K S L L
+ S D 1 D D 
+D L D D 2 
